@@ -37,4 +37,4 @@ def recommend_career_paths():
         return jsonify({'error': 'No recommendations available.'}), 404
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
