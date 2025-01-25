@@ -1,0 +1,6 @@
+streamlit
+together
+pdfplumber
+python-dotenv
+Flask 
+resume-parser 
